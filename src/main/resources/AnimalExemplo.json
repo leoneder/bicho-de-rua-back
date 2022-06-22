@@ -1,0 +1,12 @@
+{
+	"animal": "gato2",
+	"cor": "branco",
+	"raça": "angorá",
+	"porte": "médio",
+	"endereço": "Rua João Balbino 200",
+	"detalhes": "animal mancando, possivelmente foi atropelado",
+	"dataVisto": "15-06-2022 10:20:00",
+	"dataCadastro": "16-06-2022 09:10:00",
+  "cliente_id": 1,
+	"image_id": 1
+}
